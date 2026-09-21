@@ -1,0 +1,1 @@
+[![main](https://github.com/labanshtein/hexlet_CI_train/actions/workflows/main.yml/badge.svg)](https://github.com/labanshtein/hexlet_CI_train/actions/workflows/main.yml)
